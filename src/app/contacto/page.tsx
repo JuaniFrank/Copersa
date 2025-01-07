@@ -1,6 +1,3 @@
-import {APIProvider, Map} from '@vis.gl/react-google-maps';
-
-
 export default function Contacto() {
   return (
     <>

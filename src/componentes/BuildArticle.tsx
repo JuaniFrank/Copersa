@@ -1,7 +1,7 @@
 interface BuildArticleProps {
-  title?: String;
-  description?: String;
-  images?: String[];
+  title?: string;
+  description?: string;
+  images?: string[];
 }
 
 export default function BuildArticle({

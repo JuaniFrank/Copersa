@@ -21,7 +21,7 @@ const geistMono = localFont({
   weight: "100 900",
 });
 
-export const dmSans = localFont({
+const dmSans = localFont({
   src: './fonts/DMSans-VariableFont_opsz,wght.ttf',
   variable: '--font-dm-sans', // Variable CSS para usar la fuente
   weight: '100 900', // Define el rango de pesos (si es variable)
